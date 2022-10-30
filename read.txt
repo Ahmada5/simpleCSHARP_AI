@@ -1,0 +1,1 @@
+place Ai in game object that moving, and place POINT in empty game object that in same hierarchy as game object that moving
